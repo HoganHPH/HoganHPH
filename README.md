@@ -43,7 +43,9 @@ Currently pursuing Master's degree at [![University of Eastern Finland](https://
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
+<!--
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pink-gamma.vercel.app?user=HoganHPH&theme=yellowdark" alt="GitHub Streak" /></a>
+-->
 
 <h2>You can reach out to me via:</h2>
 <p>
