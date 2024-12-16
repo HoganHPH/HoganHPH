@@ -2,7 +2,7 @@
 
 Welcome to my profile! </br> </br>
 My name is <b>Hoang Pham</b>, you can call me <b>Hogan</b> that stems from Irish roots and holds the meaning <b>"young warrior"</b>. </br> </br>
-I'm an AI Engineer from <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width=20 height=18> <b>Hanoi, Vietnam</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555627.png" width=20 height=18> <b>Joensuu, Finland</b>. </br> </br>
+I'm an <b>AI Engineer</b> from <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width=20 height=18> <b>Hanoi, Vietnam</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555627.png" width=20 height=18> <b>Joensuu, Finland</b>. </br> </br>
 Currently pursuing Master's degree at [![University of Eastern Finland](https://img.shields.io/badge/University%20of%20Eastern%20Finland-000000?style=color=white")](https://www.uef.fi/en) , I am passionate about AI and excited by its potential to the future. 
 
 <h2>I am familiar with:</h2>
