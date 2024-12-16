@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1><img src="![excited](https://github.com/user-attachments/assets/5fa62fe0-b5c4-4317-b285-49a219945c8d)" width="30"/> Hey! Nice to see you.</h1>
 
 <!--
 **HoganHPH/HoganHPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
