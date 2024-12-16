@@ -43,7 +43,12 @@ Currently pursuing Master's degree at [![University of Eastern Finland](https://
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HoganHPH&theme=neon-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pink-gamma.vercel.app?user=HoganHPH&theme=yellowdark" alt="GitHub Streak" /></a>
+
+<h2>You can reach out to me via:</h2>
+<p>
+  <img alt="Gmail" src="https://img.shields.io/badge/-hogan.hph@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
+</p>
 
 <!--
 **HoganHPH/HoganHPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
